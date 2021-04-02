@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* services */
+.srvice { background-color:; padding-top: 26px; padding-bottom: 28px;  }
+.srvice h2 {float: left; font-size: 22px; font-weight: normal; padding-bottom: 15px; padding-left: 3px; color: #666; }
+.srvice a.all-srvce { float: right; font-size: 14px; margin-right: 12px; }
+.srvice .bxes { margin: 0 -9px 0 -3px; position: relative; width: 1050px; height:500px;  }  
+.srvice .bxess { width: 320px; height:200px; float: left; position: relative; }
+.srvice .bxess + .bxess { padding-left: 80px; }
+
+.srvice .bxess a { float: left; background: #000 repeat-x 0 0; padding: 2px 2px 4px 2px;
+ box-shadow: 2px 2px 2px rgba(0,0,0,0.1); -moz-box-shadow: 2px 2px 2px rgba(0,0,0,0.1); -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,0.1); -o-box-shadow: 3px 3px 3px rgba(0,0,0,0.1); color:#900;
+ border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; }
+.srvice .bxess a img { width: 310px; height: 200px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; }
+.srvice .bxess h3 { text-align: center; font-size: 18px; }
+.srvice .bxess a h3 { color:#06f;  }
+.srvice .bxess a:hover { text-decoration: none; background-position: 0 bottom; background-color:#640000; }
+/* end of services */

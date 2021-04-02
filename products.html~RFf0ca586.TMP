@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title> Durable Furniture's</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/prod.css" type="text/css" media="all" />
+    <link rel="stylesheet" type="text/css" href="css/default.css" />
+		<link rel="stylesheet" type="text/css" href="css/component(2).css" />
+		<script src="js/modernizr.custom (2).js"></script>
+    
+	
+	<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+	<!--[if lt IE 9]>
+		<script src="js/modernizr.custom.js"></script>
+	<![endif]-->
+	<script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="js/functions.js" type="text/javascript"></script>
+</head>
+<body>
+	<!-- wrapper -->
+	<div  id="wrapper">
+		<!-- header -->
+		<header>
+			<div class="shell">
+				<a href="home.html"><h1 id="logo"><img src="images/back.jpg" width="200px" height="78px"></h1></a>
+                
+				<div class="contact">
+				  <p class="ico phone-ico"><span></span>0213 5689067<br>+92 34576432</p>
+					<p class="ico mail-ico" style="color:#FFF; font-family: Georgia, 'Times New Roman', Times, serif"><span></span><a href="#">info@durablefurniture.com</a></p>
+			  </div>
+		  </div>	
+		</header>
+		<!-- end of header -->
+		<!-- navigation -->
+		<nav id="navigation">
+			<div class="shell">
+				<ul>
+					<li><a href="home.html"><span class="bottom-arr"></span>HOME</a></li>
+                    <li><a href="about us.html"><span class="bottom-arr"></span>ABOUT US</a></li>
+					<li><a href="products.html"><span class="bottom-arr"></span>PRODUCTS</a></li>
+					<li><a href="#"><span class="bottom-arr"></span>COMPARSION</a></li>
+					<li><a href="Locations.html"><span class="bottom-arr"></span>LOCATIONS</a></li>
+					<li><a href="Contact Us.html"><span class="bottom-arr"></span>CONTACT </a></li>
+				</ul>
+			</div>	
+		</nav>
+		<!-- end of navigation -->
+		<!-- services -->
+		<section class="srvice">
+        <div class="cl">&nbsp;</div><br><br><marquee><h2 style="font-weight:bold; font-size:35px; color:#000; font-style:italic; font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif">&copy; Durable Furniture's</h2></marquee>
+        <br><br>
+			<div class="shell">		
+			<ul class="grid cs-style-5">
+				<li>
+					<figure>
+						<img style="border:#000 groove" src="images/AB-logo.jpg" width="449px" height="350px" alt="">
+						<figcaption>
+							<h3 style="font-size:16px">Accents Beyond Inc</h3>
+              <p style="font-size:15px; font-family:'Comic Sans MS', cursive">
+              Welcome to Accents Beyond's collection of <br>antique & casual occasional furniture.</p>
+
+							<a href="Brand 1.html">Click here</a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img style="border:#000 groove" src="Forty winks/forty-winks.jpg" width="449px" height="350px" alt="">
+						<figcaption>
+							<h3 style="font-size:16px">Forty Winks </h3>
+                            <p style="font-size:15px; font-family:'Comic Sans MS', cursive">
+                            Welcome to Forty Winks. We have a large <br>range of beds, bedding & bedroom furniture
+                            </p>
+							
+							<a href="Brand 2.html">Click here</a>
+						</figcaption>
+					</figure>
+				</li>
+                <li>
+					<figure>
+						<img style="border:#000 groove" src="bellini modern living/Brand logo.jpg" width="449px" height="350px" alt="">
+						<figcaption>
+							<h3 style="font-size:16px">Bellini Modern Living</h3>
+                            <p style="font-size:15px; font-family:'Comic Sans MS', cursive">
+Bellini Modern Living is renowned for <br>offering high quality and innovative furniture.
+                            </p>
+							<a href="Brand 3.html">Click here</a>
+						</figcaption>
+					</figure>
+				</li>
+				<li>
+					<figure>
+						<img style="border:#000 groove"src="lexington/logo.png" width="449px" height="350px" alt="">
+						<figcaption>
+							<h3 style="font-size:16px">Lexington Furniture</h3>
+                            <p style="font-size:15px; font-family:'Comic Sans MS', cursive">
+							Lexington Home Brands is a global leader <br>in the design, manufacturing and marketing <br>of upscale home furnishings.
+							<a href="Brand 4.html">Click here</a>
+						</figcaption>
+					</figure>
+				</li>
+                </ul>
+					<div class="cl">&nbsp;</div>
+				</div>
+                </section>
+		<!-- end of Brands -->	
+		<!-- main -->
+		<div class="main">
+			<div class="shell">
+				<section>
+					<!-- content -->
+					<div class="content">
+						<h4 style="color:#000; font-size:40px; font-style:italic; font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif">Our Brands</h4><br>
+                        
+                        <a href="Brand 1.html">
+				      <img style="border:groove #000"src="images/AB-logo.jpg" width="180px" height="160px"></a>&nbsp;&nbsp;
+                      <img style="border:groove #000"src="accent beyond/Adjustable stool.jpg" width="90px" height="90px">
+                      <img style="border:groove #000"src="accent beyond/ArmChair.jpg" width="90px" height="90px">
+                      <img style="border:groove #000"src="accent beyond/heywood table.jpg" width="90px" height="90px">
+				      <fieldset><figcaption style="color:#000; font-size:22px; font-weight:bold; font-style:italic ">Accent Beyond Inc</figcaption>&nbsp;
+                     <p style="color:#000; background-color:#996;font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-size:18px "> Welcome to Accents Beyond's collection of antique reproduction and casual occasional furniture. With an emphasis on ACCENT, we offer pieces for each room in the home. Classic lines and design details bring outstanding value to every item from Accents Beyond.
+Our wood finished pieces are solid wood and quality veneers combined with time honored manufacturing techniques. The painted products are individually finished by hand. Please select from our collections with the confidence that each piece will arrive with our commitment to quality outdone only by our continued excellent service to our customers...<br>
+                      </p></fieldset><br>
+                      <a href="Brand 2.html">
+				      <img style="border:groove #000"src="Forty winks/forty-winks.jpg" width="180px" height="160px"></a>
+                      <img style="border:groove #000"src="Forty winks/Aquarius Divan.jpg" width="90px" height="90px">
+                      <img style="border:groove #000"src="Forty winks/chilton_hero.jpg" width="90px" height="90px">
+                      <img style="border:groove #000"src="Forty winks/cocobu_hero.jpg" width="90px" height="90px">
+				      <fieldset><figcaption style="color:#000; font-size:22px; font-weight:bold; font-style:italic ">Forty Winks</figcaption>&nbsp;
+                     <p style="color:#000;background-color:#996; font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-size:18px "> Welcome to Forty Winks. We have a large range of beds, bedding, bedroom furniture, children's furniture, mattresses and bed accessories.<br> We have bed, mattress and bedding shops in Melbourne, Sydney, Brisbane, Perth, Hobart and Darwin as well as country stores in Victoria, New South Wales, South Australia, Queensland, Western Australia and Tasmania. <br>
+                      </p></fieldset><br>
+                      <a href="Brand 3.html">
+				      <img style="border:groove #000"src="bellini modern living/Brand logo.jpg" width="180px" height="160px"></a>
+                      <img style="border:groove #000"src="bellini modern living/Goliad-Group-1-L.jpg" width="90px" height="90px">
+                      <img style="border:groove #000"src="bellini modern living/klaussnerbenito-1.jpg" width="90px" height="90px">
+                      <img style="border:groove #000"src="bellini modern living/modwayavo4.jpg" width="90px" height="90px">
+				      <fieldset><figcaption style="color:#000; font-size:22px; font-weight:bold; font-style:italic ">Bellini Modern Living</figcaption>&nbsp;
+                     <p style="color:#000; background-color:#996; font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-size:18px "> Bellini was established in 2002 as a wholesaler and distributor of Modern Contemporary Furniture Company in Toronto Canada.  The company expanded its wholesale operations to the United States in 2007.<br>
+Bellini Modern Living is renowned for offering high quality and innovative furniture passionate for providing unparalleled quality furnishings that enable individuals to express their personal style in fresh and exciting ways. Whether you’re looking for dining, living or entertaining furniture your home will benefit from the exceptional collections Bellini has to offer. <br>
+                      </p></fieldset><br>
+                      <a href="Brand 4.html">
+				      <img style="border:groove #000"src="lexington/logo.png" width="180px" height="160px"></a>
+                      <img style="border:groove #000"src="lexington/Darell-Faux-Marble-.jpg" width="90px" height="90px">
+                      <img style="border:groove #000"src="lexington/Mackenzie-5-Dining-Set-.jpg" width="90px" height="90px">
+                      <img style="border:groove #000"src="lexington/Mendoza-Dining-Set-.jpg" width="90px" height="90px">
+				      <fieldset><figcaption style="color:#000; font-size:22px; font-weight:bold; font-style:italic ">Lexington Furniture</figcaption>&nbsp;
+                     <p style="color:#000; background-color:#996; font-family:Georgia, 'Times New Roman', Times, serif; font-style:italic; font-size:18px ">Lexington Home Brands is a global leader in the design, sourcing, manufacturing and lifestyle marketing of upscale home furnishings. The Company’s award-winning product line of wood, upholstery and outdoor living designs encompass the industry’s most diverse range of styling, featuring recognized consumer brands like Lexington®, Tommy Bahama Home®, Tommy Bahama Outdoor Living® and Sligh®.
+<br>As a design leader for over a century, the Lexington Home Brands product assortment is presented and marketed as lifestyle collections, offering products for every room of the home, including bedroom, dining room, living room, home office, media room and outdoor living. The Company offers its dealers a single-source relationship with proven expertise in innovative product design, exceptional quality, strong relative value and comprehensive customer support.<br>
+                      </p></fieldset><br>
+					</div><div class="cl">&nbsp;</div>
+                    					<!-- end of content -->
+					<!-- aside -->
+					<aside>
+						<div class="widget">
+                        <div class="cl">&nbsp;</div><br><br><br><br>
+							<h4 style=" font-size:24px;color:#000; font-style:italic; font-family:'Palatino Linotype', 'Book Antiqua', Palatino, serif">Connect Us</h4><br>
+							<div class="img-holder">
+								<a href="http://www.facebook.com" target="_blank"><img src="http://static.viewbook.com/images/social_icons/facebook_32.png" alt="" /></a>
+							</div>
+							<div class="img-holder">
+								<a href="https://www.twitter.com" target="_blank"><img src="http://static.viewbook.com/images/social_icons/twitter_32.png" alt="" /></a>		
+                                </div>
+			
+                            <div class="img-holder">
+								<a href="https://www.linkedin.com/uas/login" target="_blank"><img src="http://static.viewbook.com/images/social_icons/linkedin_32.png" alt="" /></a>
+							</div>
+							<div class="cl">&nbsp;</div>
+						</div>
+						
+						
+					</aside>
+					<!-- end of aside -->
+					<div class="cl">&nbsp;</div>
+				</section>
+			</div>
+		</div><script src="js/toucheffects.js"></script>
+		<!-- end of main -->
+		<div id="footer-push"></div>
+	</div>
+	<!-- end of wrapper -->
+	<div id="footer">
+		<div class="shell">
+			<nav class="footer-nav">
+				<a href="home.html">HOME</a>
+                <a href="about us.html">ABOUT US</a>
+				<a href="products.html">PRODUCTS</a>
+                <a href="#">COMPARSION</a>
+				<a href="Locations.html">LOCATIONS</a>
+				<a href="Contact Us.html">CONTACT </a>
+			</nav>
+			<p class="copy" style="color:#000; font-family:Georgia, 'Times New Roman', Times, serif">Copyright &copy; 2014 Design by Ramsha Ansari, Talha Khan.</p>
+			<div class="cl">&nbsp;</div>
+		</div>
+	</div>
+</body>
+</html>

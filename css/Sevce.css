@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* services */
+.servicess { background-color:; padding-top: 26px; padding-bottom: 28px;  }
+.servicess h2 { float: left; font-size: 22px; font-weight: normal; padding-bottom: 15px; padding-left: 3px; color:#666; }
+.servicess a.all-services { float: right; font-size: 14px; margin-right: 12px; }
+.servicess .boxess { margin: 0 -9px 0 -3px; position: relative; width: 1150px; height:1300px;}  
+.servicess .boxs { width: 208px; height:190px; float: left; position: relative; }
+.servicess .boxs + .boxs { padding-left:15px; }
+
+.servicess .boxs a { float: left; background: #000 repeat-x 0 0; padding: 2px 2px 4px 2px;
+ box-shadow: 2px 2px 2px rgba(0,0,0,0.1); -moz-box-shadow: 2px 2px 2px rgba(0,0,0,0.1); -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,0.1); -o-box-shadow: 3px 3px 3px rgba(0,0,0,0.1); color:#900;
+ border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; }
+.servicess .boxs a img { width: 208px; height: 190px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; }
+.servicess .boxs h3 { text-align: center; font-size: 18px; }
+.servicess .boxs a h3 { color:#06F;  }
+.servicess .boxs a:hover { text-decoration: none; background-position: 0 bottom; background-color:#640000; }
+/* end of services */
+
+
+
+
+
